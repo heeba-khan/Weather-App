@@ -1,6 +1,6 @@
 # Weather App
 
-![Weather App Screenshot]([Screenshot (101)](https://github.com/heeba-khan/Weather-App/assets/111532086/6b6e6444-cc44-4c55-b27e-dcb9499e425c)
+![Weather App Screenshot]![Screenshot (101)](https://github.com/heeba-khan/Weather-App/assets/111532086/a73e3e4e-36f6-4368-aa29-18d59f1dcf20)
 .png)
 
 **Weather App** is a web application that allows users to check the current weather conditions for any city. It utilizes HTML, CSS, and JavaScript to provide real-time weather data using a weather data API.
